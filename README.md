@@ -20,3 +20,5 @@ UrlScanner es una herramienta que sirve para detectar la procedencia de un enlac
 * ` git clone https://github.com/Anonymous-Zpt/UrlScanner `
 * ` cd UrlScanner `
 * ` bash Urlscanner `
+
+Ya solo pegar la url acortarda y dar enter.
